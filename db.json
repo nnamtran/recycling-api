@@ -2,23 +2,23 @@
     "database": [
         {
             "title": "Coca-Cola Life Soda Soft Drink, 7.5 Fl Oz, 6 Pack",
-            "isRecyclable": "true"
+            "isRecyclable": "yes"
         },
         {
             "title": "Coca-Cola Rare Napkin Tray with Bottle Handle with Coca-Cola Napkins",
-            "isRecyclable": "true"
+            "isRecyclable": "yes"
         },
         {
             "title": "Samsung 970 EVO Plus 1TB SSD (MZ-V7S1T0B/AM)",
-            "isRecyclable": "false"
+            "isRecyclable": "no"
         },
         {
             "title": "Macbook Pro",
-            "isRecyclable": "false"
+            "isRecyclable": "no"
         },
         {
             "title": "Kids Water Bottles Bulk, Portable Travel Bottle Water Cup Leak-proof Plastic Sports Straw Cup Bottle, Material Plastic",
-            "isRecyclable": "true"
+            "isRecyclable": "yes"
         }
     ]
 }
